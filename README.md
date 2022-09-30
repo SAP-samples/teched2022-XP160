@@ -2,7 +2,7 @@
 XP160 - Get Started with SAP BTP Leveraging SAP Discovery Center
 ## Description
 
-This repository contains the material for the SAP TechEd 2022 session called Session ID - Session Title.  
+Join us and take your first steps on SAP Business Technology Platform (SAP BTP) guided by a use-case mission generating concrete business value and providing all relevant technical information. This hands-on workshop gives you the opportunity to understand the business and technical offering of SAP BTP and how to take advantage of its full potential. Learn how the SAP Discovery Center site supports you in effectively working with SAP BTP and leveraging its services in an efficient way. 
 
 ## Overview
 

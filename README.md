@@ -2,15 +2,17 @@
 XP160 - Get Started with SAP BTP Leveraging SAP Discovery Center
 ## Description
 
-Join us and take your first steps on SAP Business Technology Platform (SAP BTP) guided by a use-case mission generating concrete business value and providing all relevant technical information. This hands-on workshop gives you the opportunity to understand the business and technical offering of SAP BTP and how to take advantage of its full potential. Learn how the SAP Discovery Center site supports you in effectively working with SAP BTP and leveraging its services in an efficient way. 
+Join us and take your first steps on SAP Business Technology Platform (SAP BTP) guided by a use-case mission generating concrete business value and providing all relevant technical information. This hands-on workshop gives you the opportunity to understand the business and technical offering of SAP BTP and how to take advantage of its full potential. 
 
 ## Overview
 
-This session introduces attendees to...
+Learn how the SAP Discovery Center site supports you in effectively working with SAP BTP and leveraging its services in an efficient way. 
 
 ## Requirements
 
-The requirements to follow the exercises in this repository are...
+SAP BTP trial account or SAP BTP enterprise account with entitlements to SAP Business Application Studio, SAP Launchpad service (see Managing Entitlements).
+If you are using a Cloud-credit-based SAP BTP account no entitlements are necessary but are aware that you have enough cloud credits or an unused free-tier service plan.
+To run this mission part you need to have the SAP BTP account administrator privilege.
 
 ## Exercises
 

@@ -1,5 +1,5 @@
-# Session ID - Session Title
-XP160 - Get Started with SAP BTP Leveraging SAP Discovery Center
+# XP160 - Get Started with SAP BTP Leveraging SAP Discovery Center
+
 ## Description
 
 Join us and take your first steps on SAP Business Technology Platform (SAP BTP) guided by a use-case mission generating concrete business value and providing all relevant technical information. This hands-on workshop gives you the opportunity to understand the business and technical offering of SAP BTP and how to take advantage of its full potential. 
@@ -17,10 +17,6 @@ To run this mission part you need to have the SAP BTP account administrator priv
 ## Exercises
 
 Start the exercises in the SAP Discovery Center. The mission will be available by the start of the session: https://discovery-center.cloud.sap/missiondetail/4105/
-
-**IMPORTANT**
-
-Your repo must contain the .reuse and LICENSES folder and the License section below. DO NOT REMOVE the section or folders/files. Also, remove all unused template assets(images, folders, etc) from the exercises folder. 
 
 ## How to obtain support
 

@@ -10,9 +10,8 @@ Learn how the SAP Discovery Center site supports you in effectively working with
 
 ## Requirements
 
-SAP BTP trial account or SAP BTP enterprise account with entitlements to SAP Business Application Studio, SAP Launchpad service (see Managing Entitlements).
-If you are using a Cloud-credit-based SAP BTP account no entitlements are necessary but are aware that you have enough cloud credits or an unused free-tier service plan.
-To run this mission part you need to have the SAP BTP account administrator privilege.
+SAP BTP trial account with entitlements to SAP Business Application Studio and SAP Launchpad service.
+To run this mission you need to have the SAP BTP account administrator privilege.
 
 ## Exercises
 

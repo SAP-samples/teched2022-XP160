@@ -2,16 +2,15 @@
 
 ## Description
 
-Join us and take your first steps on SAP Business Technology Platform (SAP BTP) guided by a use-case mission generating concrete business value and providing all relevant technical information. This hands-on workshop gives you the opportunity to understand the business and technical offering of SAP BTP and how to take advantage of its full potential. Learn how the SAP Discovery Center site supports you in effectively working with SAP BTP and leveraging its services in an efficient way.
+This repository contains the material for the SAP TechEd 2022 session XP160 - Get Started with SAP BTP Leveraging SAP Discovery Center.
 
 ## Overview
 
-Learn how the SAP Discovery Center supports you in effectively working with SAP BTP and leveraging from its services. The goal of the exercises is to create a simple Hello World application using SAPUI5 / SAP Fiori running on SAP Business Technology Platform (SAP BTP) leveraging SAP Business Application Studio (BAS), Cloud Foundry runtime, and SAP Launchpad Service - all based on a SAP Discovery Center mission that will guide you through the tasks.
+Learn how the SAP Discovery Center supports you in effectively working with SAP BTP and leveraging from its services. You will take your first steps on SAP Business Technology Platform (SAP BTP) guided by a use-case mission generating concrete business value and providing all relevant technical information. The goal of the exercises is to create a simple Hello World application using SAPUI5 / SAP Fiori running on SAP Business Technology Platform (SAP BTP) leveraging SAP Business Application Studio (BAS), Cloud Foundry runtime, and SAP Launchpad Service - all based on a SAP Discovery Center mission that will guide you through the tasks.
 
 ## Requirements
 
 SAP BTP trial account with entitlements to SAP Business Application Studio and SAP Launchpad service.
-To run this mission you need to have the SAP BTP account administrator privilege.
 
 ## Exercises
 

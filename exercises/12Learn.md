@@ -13,9 +13,9 @@ SAPUI5 is a JavaScript application framework designed to build cross-platform, r
 
 SAP Fiori is a design system that provides a consistent user experience for SAP software across platforms and devices. It is at the core of SAP’s product experience and design strategy. 
 
-SAP Fiori Overview: Design, Develop and Deploy on openSAP
-The enterprise user experience, reimagined on sap.com
-SAP Fiori Design Guidelines 
+* [SAP Fiori Overview: Design, Develop and Deploy on open](SAPhttps://open.sap.com/courses/fiori3)
+* [The enterprise user experience, reimagined on sap.com](https://www.sap.com/products/fiori.html)
+* [SAP Fiori Design Guidelines](https://experience.sap.com/fiori-design-web/) 
 
 **SAP Fiori Launchpad** 
 

@@ -7,11 +7,11 @@ This mission includes the following steps:
 
 * Setup of **SAP Launchpad Service** - to give you access to create and configure the central point of entry for your users
 
-Setup of **SAP Business Application Studio** - to give you access to the development environment
+* Setup of **SAP Business Application Studio** - to give you access to the development environment
 
-**Create** a simple HelloWorld app
+* **Create** a simple HelloWorld app
 
-**Deploy** the HelloWorld app
+* **Deploy** the HelloWorld app
 
-Integrate the app into SAP Launchpad
+* **Integrate** the app into SAP Launchpad
 ![](/exercises/Add%20to%20content.png)

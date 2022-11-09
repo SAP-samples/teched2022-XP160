@@ -14,4 +14,4 @@ Create a simple HelloWorld app
 Deploy the HelloWorld app
 
 Integrate the app into SAP Launchpad
-
+![](/exercises/x0-1.png)

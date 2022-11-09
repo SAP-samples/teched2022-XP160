@@ -26,7 +26,7 @@ SAP Fiori Launchpad – Overview
 What Is Launchpad Service?
 
 **SAP Business Application Studio** 
-
+![](/exercises/images/BAS.png)
 
 SAP Business Application Studio (the next generation of SAP Web IDE) is a powerful and modern development environment, tailored for efficient development of business applications for the Intelligent Enterprise. Available as a cloud service, it provides developers a desktop-like experience similar to market leading IDEs, while accelerating time-to-market with high-productivity development tools such as wizards and templates, graphical editors, quick deployment, and more.
 

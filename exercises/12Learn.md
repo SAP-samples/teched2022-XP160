@@ -18,6 +18,7 @@ SAP Fiori Design Guidelines
 
 **SAP Fiori Launchpad** 
 
+![](/exercises/images/Launchpad.png)
 
 SAP Fiori Launchpad enables organizations to establish a central point of access to SAP, custom-built, and third party applications and extensions, both on the cloud and on-premise. Make use of the SAP Launchpad Service and create your own SAP Fiori Launchpad with role-based and personalized business content accessible via desktop and mobile devices.
 

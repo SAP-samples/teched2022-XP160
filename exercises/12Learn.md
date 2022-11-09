@@ -6,7 +6,7 @@ Learn more about the services used in this mission:
 
 SAPUI5 is a JavaScript application framework designed to build cross-platform, responsive, enterprise-ready applications.
 
-[Get Started: Setup, Tutorials, and Demo Apps on ui5.sap.com](https://cockpit.eu10.hana.ondemand.com/cockpit/?idp=tdcteched3.accounts.ondemand.com#/globalaccount/62d9c33d-1b44-4afa-9751-2cb0165ba817](https://ui5.sap.com/#/topic/8b49fc198bf04b2d9800fc37fecbb218)
+[Get Started: Setup, Tutorials, and Demo Apps on ui5.sap.com](https://ui5.sap.com/#/topic/8b49fc198bf04b2d9800fc37fecbb218)
 
 
 

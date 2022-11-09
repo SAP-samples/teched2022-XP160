@@ -14,4 +14,5 @@ This mission includes the following steps:
 * **Deploy** the HelloWorld app
 
 * **Integrate** the app into SAP Launchpad
+
 ![](/exercises/Add%20to%20content.png)

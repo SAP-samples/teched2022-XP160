@@ -25,6 +25,7 @@ SAP Fiori Launchpad enables organizations to establish a central point of access
 
 * [SAP Fiori Launchpad – Overview](https://experience.sap.com/fiori-design-web/launchpad/)
 * [What Is Launchpad Service?](https://help.sap.com/viewer/8c8e1958338140699bd4811b37b82ece/Cloud/en-US/9db48fa44f7e4c62a01bc74c82e74e07.html)
+* [SAP Launcpad Service in Service Catalog](https://discovery-center.cloud.sap/index.html#/serviceCatalog/launchpad-service?region=all)
 
 **SAP Business Application Studio** 
 

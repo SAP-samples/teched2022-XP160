@@ -11,21 +11,19 @@
 <img src="/exercises/images/xs_app.png" width="750">
  
 <li>Let's build your application in SAP Business Application Studio. <br />Right-click on the <strong>mta.yaml</strong> file and choose <strong>Build MTA project</strong>. With this a folder "mta_archives" and a mtar file is created.<br /><br />
-  
-
-  
-  <img src="/exercises/images/Build_MTA.png" width="750">
 
 </p>
+<img src="/exercises/images/Build_MTA.png" width="750">
+
 <p>You will get the following INFO Message:<br /><code>INFO the MTA archive generated at: /home/user/projects/helloworldui5/mta_archives/sap-btp-helloworldui5_0.0.1.mtar</code></p>
 <p><strong>Alternative</strong>: Build your application via the command line:&nbsp;<br />Right-click on the <strong>mta.yaml</strong> file and choose <strong>Open in Terminal</strong>.<br />Type "dir" in the console to show the files in the directory. check if the <em>mta.yaml</em> file is available.<br />Type command 'mbt build'.<br /><br />For more details, see section <a href="https://help.sap.com/docs/SAP%20Business%20Application%20Studio/9d1db9835307451daa8c930fbd9ab264/97ef204c568c4496917139cee61224a6.html" target="true" rel="noopener">Building and Deploying Multitarget Applications</a>&nbsp;on SAP Help Portal.</p>
 </li>
 <li>
 <p>Deploy the HelloWorld application to your SAP BTP dev space. <br />Make sure you are logged in to your SAP BTP subaccount (described under step "Prepare your SAP Business Application Studio").<br />Expand the project folder <strong>mta_archives</strong>&nbsp;and right-click on the built file&nbsp;<strong>sap-btp-hellowordlui5_0.0.1.mtar</strong>&nbsp;and select&nbsp;<strong>Deploy MTA Archive</strong>.<br /><br />
   
-    <img src="/exercises/images/Build_MTA.png" width="750">
+<img src="/exercises/images/Deploy_MTA.png" width="750">
   
-  <br /><br />Your trail subaccount will be selected automatically as destination.<br /><br /></p>
+<br /><br />Your trail subaccount will be selected automatically as destination.<br /><br /></p>
 </li>
 <li>
 <p>After the deployment is triggered, you can see the progress of the deployment in the terminal under <strong>Task: Deploy MTA Archive</strong>. <br />It takes a while to complete the task. You will see a success message in the console once it's done. <br />If not, check the previous steps again.<br /><br />

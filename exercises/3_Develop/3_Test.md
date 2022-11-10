@@ -14,7 +14,7 @@
 
 A new browser tab opens with your app:
 
-<img src="/exercises/images/App_generated.png" width="750">
+<img src="/exercises/images/App_generated_new.png" width="750">
 
 Now let us **change the title of the app** to "HelloWorld".
 
@@ -24,11 +24,11 @@ Now let us **change the title of the app** to "HelloWorld".
 
 5. Change "{i18n>title}" to "HelloWorld".
 
-<img src="/exercises/images/BAS_start.png" width="750">
+<img src="/exercises/images/App_title_TechEd_new.png" width="750">
 
 You will see the changes in the application preview accordingly: "HelloWorld" instead of "Hello World App Title".
 
-<img src="/exercises/images/BAS_start.png" width="750">
+<img src="/exercises/images/App_new.png" width="750">
  
 
  

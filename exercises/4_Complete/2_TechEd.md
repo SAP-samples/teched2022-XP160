@@ -20,4 +20,4 @@ Browse through the [SAP TechEd 2022 Session Catalog](https://go3.events.sap.com/
 
 **Check learning.sap.com/teched** and join the the [SAP TechEd](https://groups.community.sap.com/t5/sap-teched/gh-p/SAP-TechEd-Group) and [SAP Learning Groups](https://groups.community.sap.com/t5/sap-learning-groups/ct-p/SAP-Learning) in **SAP Community** to connect with experts, share your knowledge, expand your network, and collaborate with peers!
 
-![](/exercises/images/TechEd_picture.png)
+<img src="/exercises/images/TechEd_picture.png" width="80%">

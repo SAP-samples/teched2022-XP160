@@ -47,13 +47,11 @@ Click on the&nbsp;<strong>My Content</strong>&nbsp;tab on the top left and see y
 <img src="/exercises/images/Role_Assignment.png" width="750"> 
   
 <li>Don't forget to&nbsp;<strong>Save</strong>.<br /><br /></li>
-<li>Go to the&nbsp;<strong>Site Directory</strong>&nbsp;in the left navigation pane. Open your "HelloWorldSite".<br />Start by clinking on it. You will see your newly created app in the Launchpad.<br /><br /><img src="https://hcp-cfabd58d-7e9d-4040-9f04-d5542b432257.s3-eu-central-1.amazonaws.com/editorUploads/F6581442C72303A61700BA066FBD102F/7ca2d121-0b5f-490b-878d-aeb671e9461b.png" width="615" height="468" /><br /><br /><br /></li>
+<li>Go to the&nbsp;<strong>Site Directory</strong>&nbsp;in the left navigation pane. Open your "HelloWorldSite".<br />Start by clinking on it. You will see your newly created app in the Launchpad.<br /><br />
+  
+<img src="/exercises/images/Hello_World_app.png" width="500"> 
+  
 </ol>
 <p><strong>Well done! You have successfully created a Launchpad site, giving necessary roles and groups, and added your HTML5 application to the Launchpad site<br /><br /></strong></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <p>&nbsp;</p>

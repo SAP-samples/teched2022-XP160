@@ -69,9 +69,9 @@ Choose **Next**.
 9. The launchpad service needs some Fiori Launchpad Configuration data about the app. Choose names for the entries Semantic Object, Action, and Title (examples see figure)
 (Optional: For more information about these data and features, see Intent-Based Navigation in a Nutshell).
 
-Semantic Object: helloworld
-Action: show
-Title: showhelloworld
+**Semantic Object**: helloworld
+**Action**: show
+**Title**: showhelloworld
 
 <img src="/exercises/images/Fiori_Launchpad_config.png" width="750">
 
@@ -85,15 +85,12 @@ Title: showhelloworld
 
 12. After your App is generated, you should see this page and in the Explorer a new folder "helloworldui5" under HOME.
 
-
+<img src="/exercises/images/BAS_Project_App_Info.png" width="750">
 
 13. Open your Projects folder via menu: File > Open Folder ... and enter "/home/user/projects".
 
-Click **OK**.
-
-
+<img src="/exercises/images/Open_Projects_folder.png" width="750">
  
-
- 
+14. Click **OK**.
 
  

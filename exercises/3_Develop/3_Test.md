@@ -8,13 +8,13 @@
 
 2. Choose npm script: **start-noflp fiori run --open "intex.html?sap-ui-xx-viewCache=false"**
 
-<img src="/exercises/images/BAS_start.png" width="750">
+<img src="/exercises/images/Start_noflp.png" width="750">
 
 
 
 A new browser tab opens with your app:
 
-<img src="/exercises/images/BAS_start.png" width="750">
+<img src="/exercises/images/App_generated.png" width="750">
 
 Now let us **change the title of the app** to "HelloWorld".
 

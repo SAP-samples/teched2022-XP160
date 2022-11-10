@@ -71,7 +71,6 @@ A connection of your SAP Business Application Studio to your Cloud Foundry subac
 
 4. Enter your SAP BTP account Email and Password when prompted. 
 
-[ToDo]
  ![](/exercises/images/Enter_email.png)
 
 5. Select your Cloud Foundry Org (predefined).
@@ -79,7 +78,7 @@ A connection of your SAP Business Application Studio to your Cloud Foundry subac
 6. Select the Space name (predefined).
 
  ![](/exercises/images/CF_Target.png)
-[ToDo]
+
  ![](/exercises/images/Logged_in.png)
 
 **Now we have successfully created a connection between your SAP Business Application dev space and your SAP BTP Cloud Foundry space.**

@@ -11,4 +11,4 @@ SAP BTP Trial Accounts already have preconfigured a Cloud Foundry runtime enviro
 
 You start with creating the SAP BTP trial account and setting up the SAP Launchpad Services on the next project board cards.
 
-**Skip the next Card in case you already have an SAP BTP Trial account!
+**Skip the next Card in case you already have an SAP BTP Trial account!**

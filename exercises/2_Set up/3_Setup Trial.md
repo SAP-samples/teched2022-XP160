@@ -3,7 +3,7 @@
 <ol>
 <li><strong>Go To Your Trial Account</strong> (with this link: <a href="https://cockpit.hanatrial.ondemand.com/" target="true">Welcome to SAP BTP trial</a>).</li>
 </ol>
-<p><img src="" alt="Enter trial account" width="921" height="284" /></p>
+<p><img src="/exercises/images/Enter_trial_account.png" alt="Enter trial account" width="921" height="284" /></p>
 <p>2. Now create a subaccount that lives in a geographic region. <strong>Choose any region</strong>&nbsp;from this list and click&nbsp;<strong>Create Account</strong> to trigger the provisioning process.<br /><br /><img src="/exercises/images/Create_Account.png" /><br /><br /></p>
 <p>3. You will then see a dialog box while the account is set up. <br /><br /><img src="/exercises/images/Welcome_to_Trial.png" /><br /><br />When complete, click&nbsp;<strong>Continue</strong>&nbsp;to close to popup and to navigate to the new account.<br /><br /><img src="/exercises/images/Welcome_to_Trial2.png" /></p>
 <p>The global trial account contains&nbsp;<strong>one</strong> subaccount and space.&nbsp;</p>

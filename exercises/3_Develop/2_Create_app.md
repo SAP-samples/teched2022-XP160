@@ -64,8 +64,7 @@ This is the standard html5 repository from launchpad service and eases deploymen
 
 Choose **Next**.
 
-
-
+<img src="/exercises/images/Deployment_Config.png" width="750">
 
 9. The launchpad service needs some Fiori Launchpad Configuration data about the app. Choose names for the entries Semantic Object, Action, and Title (examples see figure)
 (Optional: For more information about these data and features, see Intent-Based Navigation in a Nutshell).

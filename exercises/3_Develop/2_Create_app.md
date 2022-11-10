@@ -28,14 +28,14 @@ Choose **Next**.
 
 5. Choose **Next**.
 
-
+<img src="/exercises/images/Data_Source.png" width="750">
 
 
 6. Under **Entity Selection** name your SAPUI5 view. This name will appear in the launchpad service for the app. We keep "View1" for now
 
 Choose **Next**.
 
-
+<img src="/exercises/images/View1.png" width="750">
 
 7. In the next step, **Project Attributes** choose names and a description for your "Hello World" app (examples see figure):
 
@@ -52,7 +52,7 @@ Choose **Next**.
 
 Choose **Next**.
 
-
+<img src="/exercises/images/Template_Project_Attributes.png" width="750">
 
 
 8. In the next step, **Deployment Configuration** choose **Cloud Foundry** as a target.

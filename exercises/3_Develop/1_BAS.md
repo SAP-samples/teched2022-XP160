@@ -7,9 +7,8 @@
 ![](/exercises/images/Open_BAS.png)
 
 3. Please, accept the Privacy Statement
-![](/exercises/images/BAS_Privacy_Statment.png)
 
-<img src="/exercises/images/BAS_Privacy_Statment.png" width="75">
+<img src="/exercises/images/BAS_Privacy_Statment.png" width="650">
 
 4. Browse the SAP Business Application Studio home page.
 ![](/exercises/images/Browse_BAS.png)

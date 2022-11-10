@@ -19,3 +19,5 @@ Browse through the [SAP TechEd 2022 Session Catalog](https://go3.events.sap.com/
 * [Application and Business Processes: Explore the Capabilities of SAP SuccessFactors Work Zone](https://go3.events.sap.com/sapteched/hybrid/2022/reg/flow/sap/saptech2022/sapteched2022catalog/page/catalog/session/1661198037242001E6ZH) [AP300] (Virtual Breakout)
 
 **Check learning.sap.com/teched** and join the the [SAP TechEd](https://groups.community.sap.com/t5/sap-teched/gh-p/SAP-TechEd-Group) and [SAP Learning Groups](https://groups.community.sap.com/t5/sap-learning-groups/ct-p/SAP-Learning) in **SAP Community** to connect with experts, share your knowledge, expand your network, and collaborate with peers!
+
+![](/exercises/images/TechEd_picture.png)

@@ -1,1 +1,24 @@
-
+<p "text-align: left;">Finally you need to add your App to the Launchpad group and role.<br /><br /></p>
+<ol>
+<li>Navigate to&nbsp;<strong>Channel Manager</strong>&nbsp;on the left to check your Content Providers and to&nbsp;<strong>refresh</strong>&nbsp;the list of HTML5 Applications.&nbsp;<br /><br /><img src="https://proxybridgesdck5a4a61ad17b8dc3.hana.ondemand.com/proxybridge-sdc-k5a4a6-1.0.0/readonly/cmis/json/5e5fd7b197b6556fa80bc826/root?objectId=XMVIAJUTVVJ5aqsfDK9hx3N2GxRI8T5rfA5UjobB4Hw" width="932" height="218" />&nbsp;<br /><br /></li>
+<li>Click on the <strong>Content Manager</strong> and on tab <strong>Content Explorer</strong>&nbsp;tab, and select&nbsp;<strong>HTML5 Apps</strong>&nbsp;to see the list of HTML5 applications you have in your&nbsp;<strong>HTML5 Applications</strong>&nbsp;(the Managed Application Router provided by SAP Launchpad).<br /><br /><img src="https://proxybridgesdck5a4a61ad17b8dc3.hana.ondemand.com/proxybridge-sdc-k5a4a6-1.0.0/readonly/cmis/json/5e5fd7b197b6556fa80bc826/root?objectId=9WBLDsjjUaRXcFunovqY5Vpb_e23yPgKjsevD_mCTTU" width="584" height="313" /><br /><br /><br />You see the ID of the deployed HTML5 apps and the view name.<br /><br /></li>
+<li>Select your HTML5 application which you see in the list and click the button&nbsp;<strong>+Add to My Content</strong>.<br /><br /><img src="https://proxybridgesdck5a4a61ad17b8dc3.hana.ondemand.com/proxybridge-sdc-k5a4a6-1.0.0/readonly/cmis/json/5e5fd7b197b6556fa80bc826/root?objectId=p8LRCD_xADKVtDjSgpPCZR1BGEhgPbax8Tu7ZWnMf3c" width="834" height="305" /><br /><br /></li>
+<li>Click on the&nbsp;<strong>My Content</strong>&nbsp;tab on the top left and see your new app&nbsp;<strong>Hello World App Title</strong>&nbsp;in your content.<br /><br /><img src="https://proxybridgesdck5a4a61ad17b8dc3.hana.ondemand.com/proxybridge-sdc-k5a4a6-1.0.0/readonly/cmis/json/5e5fd7b197b6556fa80bc826/root?objectId=0iKiSqE01QjRzSpoQ77GJCFd7lan2_J_pm17QsnLiPI" width="825" height="333" /><br /><br /><em>Note:</em>&nbsp;You can see the Semantic Object we defined in SAP Business Application Studio&nbsp;<strong>helloworld</strong>&nbsp;and the Action&nbsp;<strong>show</strong>&nbsp;in the app details&nbsp;<strong>Navigation</strong>. This is needed for the Launchpad integration.<br /><br /></li>
+<li>Enter the group&nbsp;<strong>HelloWorldGroup</strong>&nbsp;you just created, click on&nbsp;<strong>Edit.</strong><br /><br /><img src="https://proxybridgesdck5a4a61ad17b8dc3.hana.ondemand.com/proxybridge-sdc-k5a4a6-1.0.0/readonly/cmis/json/5e5fd7b197b6556fa80bc826/root?objectId=Y1pO75InEJE7VzsHiPIuihYYuVNufLdmOSeUJmAenLg" /><strong><br /></strong></li>
+<li>Click into the <strong>Assign Items</strong> search bar.<br /><br /></li>
+<li>After clicking <strong>into the search bar</strong>, you will see the HTML5 App&nbsp;<strong>Hello World App Title</strong>.<br /><br /></li>
+<li>Click the&nbsp;<strong>+ button</strong>&nbsp;for your app<br /><br /></li>
+<li>Don't forget to&nbsp;<strong>Save</strong>.<br /><br /><img src="https://proxybridgesdck5a4a61ad17b8dc3.hana.ondemand.com/proxybridge-sdc-k5a4a6-1.0.0/readonly/cmis/json/5e5fd7b197b6556fa80bc826/root?objectId=RKFq3je97LwA4f2HcF3qt5TPrmuxSNDAJlYHIjNHjpw" width="1009" height="312" /> <br /><br /><br /></li>
+<li>Go back to Content Manager and click on the&nbsp;<strong>Everyone</strong>&nbsp;role (you can also create your company-specific roles) and click on the button&nbsp;<strong>Edit</strong>.<br /><img src="https://proxybridgesdck5a4a61ad17b8dc3.hana.ondemand.com/proxybridge-sdc-k5a4a6-1.0.0/readonly/cmis/json/5e5fd7b197b6556fa80bc826/root?objectId=Y1pO75InEJE7VzsHiPIuihYYuVNufLdmOSeUJmAenLg" /></li>
+<li>In the&nbsp;<strong>Assignments</strong>&nbsp;section, <strong>click in the search bar</strong> and add your app with the&nbsp;<strong>+ button</strong>.<br /><br /><img src="https://proxybridgesdck5a4a61ad17b8dc3.hana.ondemand.com/proxybridge-sdc-k5a4a6-1.0.0/readonly/cmis/json/5e5fd7b197b6556fa80bc826/root?objectId=444HKWvVx_Q7bwTvR10To3gP903OUufcEs-HRT3myt0" width="1030" height="314" /> <br /><br /></li>
+<li>Don't forget to&nbsp;<strong>Save</strong>.<br /><br /></li>
+<li>Go to the&nbsp;<strong>Site Directory</strong>&nbsp;in the left navigation pane. Open your "HelloWorldSite".<br />Start by clinking on it. You will see your newly created app in the Launchpad.<br /><br /><img src="https://hcp-cfabd58d-7e9d-4040-9f04-d5542b432257.s3-eu-central-1.amazonaws.com/editorUploads/F6581442C72303A61700BA066FBD102F/7ca2d121-0b5f-490b-878d-aeb671e9461b.png" width="615" height="468" /><br /><br /><br /></li>
+</ol>
+<p><strong>Well done! You have successfully created a Launchpad site, giving necessary roles and groups, and added your HTML5 application to the Launchpad site<br /><br /></strong></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>

@@ -23,8 +23,12 @@
 </li>
 <li>Navigate to <strong>Services</strong> &gt;&nbsp;<strong>Instances and Subscriptions</strong>&nbsp;in the left navigation pane.</li>
 <li>
-<p>Select the tab&nbsp;<strong>Subscriptions</strong>, and choose <strong>Launchpad Service.&nbsp;</strong>The Launchpad Site Manager opens in a new window.<strong><br /><br /><img src="https://proxybridgesdck5a4a61ad17b8dc3.hana.ondemand.com/proxybridge-sdc-k5a4a6-1.0.0/readonly/cmis/json/5e5fd7b197b6556fa80bc826/root?objectId=bKD5K7USUcOO1O2FJs9GiBeBEO9WicthoAYHkvXlbAQ" width="783" height="344" /> <br /></strong><strong><br /><br /></strong>If you get the error message "Access Denied". Your user has not been assigned the role collection <strong>Launchpad_Admin</strong>. Go to <strong>Role Collections</strong>, click on <strong>Launchpad_Admin</strong> and assign the email address of your user (as described under step "Add yourself to the Launchpad Admin role").<br /><br /><br /><br /><br /></p>
+<p>Select the tab&nbsp;<strong>Subscriptions</strong>, and choose <strong>Launchpad Service.&nbsp;</strong>The Launchpad Site Manager opens in a new window.<strong><br /><br />
+  
+<img src="/exercises/images/Open_site_directory.png" width="750">
+  
+<br /></strong>
+If you get the error message "Access Denied". Your user has not been assigned the role collection <strong>Launchpad_Admin</strong>. Go to <strong>Role Collections</strong>, click on <strong>Launchpad_Admin</strong> and assign the email address of your user (as described under step "Add yourself to the Launchpad Admin role").<br /><br /><br /></p>
 </li>
 </ol>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+

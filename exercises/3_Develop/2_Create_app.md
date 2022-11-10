@@ -73,7 +73,7 @@ Semantic Object: helloworld
 Action: show
 Title: showhelloworld
 
-
+<img src="/exercises/images/Fiori_Launchpad_config.png" width="750">
 
 10. Choose **Finish**.
 
@@ -81,7 +81,7 @@ Title: showhelloworld
 
 11. Click on **Add Project to Workspace**
 
-
+<img src="/exercises/images/Workspace.png" width="750">
 
 12. After your App is generated, you should see this page and in the Explorer a new folder "helloworldui5" under HOME.
 

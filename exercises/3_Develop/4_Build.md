@@ -21,7 +21,7 @@
 <li>
 <p>Deploy the HelloWorld application to your SAP BTP dev space. <br />Make sure you are logged in to your SAP BTP subaccount (described under step "Prepare your SAP Business Application Studio").<br />Expand the project folder <strong>mta_archives</strong>&nbsp;and right-click on the built file&nbsp;<strong>sap-btp-hellowordlui5_0.0.1.mtar</strong>&nbsp;and select&nbsp;<strong>Deploy MTA Archive</strong>.<br /><br />
   
-<img src="/exercises/images/Deploy_MTA.png" width="750">
+<img src="/exercises/images/Deploy_mta.png" width="750">
   
 <br /><br />Your trail subaccount will be selected automatically as destination.<br /><br /></p>
 </li>
@@ -29,11 +29,14 @@
 <p>After the deployment is triggered, you can see the progress of the deployment in the terminal under <strong>Task: Deploy MTA Archive</strong>. <br />It takes a while to complete the task. You will see a success message in the console once it's done. <br />If not, check the previous steps again.<br /><br />
   
   
-      <img src="/exercises/images/Deploy_mta.png" width="750">
+<img src="/exercises/images/Terminal.png" width="750">
   
   <br /><br /></p>
 </li>
-<li>Switch to your <strong>subaccount </strong>in the SAP BTP Cockpit<strong>. <br /></strong>Select<strong> HTML5 Application </strong>on the left navigation pane. You will see the deployed application in the repository.<br /><br /><img src="https://hcp-cfabd58d-7e9d-4040-9f04-d5542b432257.s3-eu-central-1.amazonaws.com/editorUploads/1BA15340C72303A61700BA066FBD102F/ab2e1357-6985-4036-b4ef-6c5dfc2080ca.png" width="728" height="317" /><br /><br /><br /></li>
+<li>Switch to your <strong>subaccount </strong>in the SAP BTP Cockpit<strong>. <br /></strong>Select<strong> HTML5 Application </strong>on the left navigation pane. You will see the deployed application in the repository.<br /><br />
+<img src="/exercises/images/HTML5_app.png" width="750">
+  
+<br /><br /><br /></li>
 <li>Click on the application name "<strong>saphelloworldui5</strong>". Your deployed app will open in a new window.<br /><br /><img src="https://proxybridgesdck5a4a61ad17b8dc3.hana.ondemand.com/proxybridge-sdc-k5a4a6-1.0.0/readonly/cmis/json/5e5fd7b197b6556fa80bc826/root?objectId=mHvkleAoqusw7ZL7h4Dv4bEdk5hd_lpBaMDzOP9UJhA" /></li>
 </ol>
 <p>&nbsp;</p>

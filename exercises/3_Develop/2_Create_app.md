@@ -5,13 +5,13 @@
 1. Click on Start from template in the Welcome tab to create the project.
 Alternative: Open the menu in the top left corner and go to View > Command Palette ... and search for ">new project". Select the command SAP Business Application Studio: New Project from Template
 
-
+<img src="/exercises/images/BAS_start.png" width="750">
 
 2. In the New Project Wizard select SAP Fiori Application.
 
 Click **Start**.
 
-
+<img src="/exercises/images/Template_Fiori_app.png" width="750">
 
 
 3. In the **Floorplan Selection**, choose the following:
@@ -21,7 +21,7 @@ Select **SAPUI5 Application** as floorplan.
 
 Choose **Next**.
 
-
+<img src="/exercises/images/Template_UI5.png" width="750">
 
 
 4. In the **Data Source and Service Selection** choose **None** for Data source, because we just create a "Hello World" without data binding.

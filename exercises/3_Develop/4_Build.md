@@ -21,7 +21,6 @@
 <p>Deploy the HelloWorld application to your SAP BTP dev space. <br />Make sure you are logged in to your SAP BTP subaccount (described under step "Prepare your SAP Business Application Studio").<br />Expand the project folder <strong>mta_archives</strong>&nbsp;and right-click on the built file&nbsp;<strong>sap-btp-hellowordlui5_0.0.1.mtar</strong>&nbsp;and select&nbsp;<strong>Deploy MTA Archive</strong>.<br /><br />
   
 <img src="/exercises/images/Deploy_mta.png" width="750">  
-<br />
 
 Your trail subaccount will be selected automatically as destination.<br /><br />
 </li>

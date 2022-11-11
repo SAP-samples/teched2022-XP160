@@ -39,10 +39,10 @@ Choose **Next**.
 
 7. In the next step, **Project Attributes** choose names and a description for your "Hello World" app (examples see figure):
 
-**Module name**: helloworldui5
-**Application title**: Hello World App Title
-**Application namespace**: sap.btp
-**Description**: A Fiori Hello World application 
+**Module name**: helloworldui5 <br>
+**Application title**: Hello World App Title <br>
+**Application namespace**: sap.btp <br>
+**Description**: A Fiori Hello World application  <br>
 
 **Project folder path** and **Minimum SAPUI5 version** should not be changed
 

@@ -1,21 +1,11 @@
 **Now you can test and preview the UI application in SAP Business Application Studio**
 
-1. Right click on your project folder "helloworldui5" and choose **Preview Application**. 
-
-<img src="/exercises/images/Preview_Application.png" width="750">
+1. Right click on your project folder "helloworldui5" and choose **Preview Application**.<img src="/exercises/images/Preview_Application.png" width="750">
 
  
 
-2. Choose npm script: **start-noflp fiori run --open "intex.html?sap-ui-xx-viewCache=false"**
-
-<img src="/exercises/images/Start_noflp.png" width="750">
-
-
-
-A new browser tab opens with your app:
-
-<img src="/exercises/images/App_generated_new.png" width="750">
-
+2. Choose npm script: **start-noflp fiori run --open "intex.html?sap-ui-xx-viewCache=false"**<img src="/exercises/images/Start_noflp.png" width="750"><br />
+A new browser tab opens with your app:<img src="/exercises/images/App_generated_new.png" width="750"><br />
 Now let us **change the title of the app** to "HelloWorld".
 
 3. Go to **Explorer** in the left navigation pane.

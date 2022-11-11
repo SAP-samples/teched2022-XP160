@@ -1,7 +1,7 @@
 
 **Open SAP Business Application Studio**
 
-1. Click Instances and Subscriptions under Services 
+1. Click Instances and Subscriptions under Services
 
 2. Select the tab Subscriptions, and click on SAP Business Application Studio. You will be forwarded to your SAP Business Application Studio Home Page with automatic login to the application.
 ![](/exercises/images/Open_BAS.png)

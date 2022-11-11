@@ -39,16 +39,16 @@ Choose **Next**.
 
 7. In the next step, **Project Attributes** choose names and a description for your "Hello World" app (examples see figure):
 
-**Module name**: helloworldui5 <br>
-**Application title**: Hello World App Title <br>
-**Application namespace**: sap.btp <br>
-**Description**: A Fiori Hello World application  <br>
+**Module name**: <code>helloworldui5 </code><br>
+**Application title**: <code>Hello World App Title </code><br>
+**Application namespace**: <code>sap.btp </code><br>
+**Description**: <code>A Fiori Hello World application  </code><br>
 
 **Project folder path** and **Minimum SAPUI5 version** should not be changed
 
-**Add deployment configuration to MTA project**: Yes 
-**Add FLP configuration**: Yes
-**Configure advanced options**: No
+**Add deployment configuration to MTA project**: <code>Yes </code><br>
+**Add FLP configuration**: <code>Yes</code><br>
+**Configure advanced options**: <code>No</code><br>
 
 Choose **Next**.
 
@@ -69,9 +69,9 @@ Choose **Next**.
 9. The launchpad service needs some Fiori Launchpad Configuration data about the app. Choose names for the entries Semantic Object, Action, and Title (examples see figure)
 (Optional: For more information about these data and features, see Intent-Based Navigation in a Nutshell).
 
-**Semantic Object**: helloworld <br>
-**Action**: show <br>
-**Title**: showhelloworld <br>
+**Semantic Object**: <code>helloworld </code><br>
+**Action**: <code>show </code><br>
+**Title**: <code>showhelloworld </code> <br>
 
 <img src="/exercises/images/Fiori_Launchpad_config.png" width="750">
 

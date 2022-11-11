@@ -1,57 +1,54 @@
-<p "text-align: left;">Finally you need to add your App to the Launchpad group and role.<br /><br /></p>
-<ol>
-<li>Navigate to&nbsp;<strong>Channel Manager</strong>&nbsp;on the left to check your Content Providers and to&nbsp;<strong>refresh</strong>&nbsp;the list of HTML5 Applications.&nbsp;<br /><br />
+Finally you need to add your App to the Launchpad group and role.
+
+1. Navigate to **Channel Manager** on the left to check your Content Providers and to **refresh** the list of HTML5 Applications. 
   
-<img src="/exercises/images/Refresh.png" width="750"> 
+     ![](../images/Refresh.png)
   
-<br /></li>
-<li>
-Click on the <strong>Content Manager</strong> and on tab <strong>Content Explorer</strong>&nbsp;tab, and select&nbsp;<strong>HTML5 Apps</strong>&nbsp;to see the list of HTML5 applications you have in your&nbsp;<strong>HTML5 Applications</strong>&nbsp;(the Managed Application Router provided by SAP Launchpad).<br /><br /> 
+2. Click on the **Content Manager** and on tab **Content Explorer** tab, and select **HTML5 Apps** to see the list of HTML5 applications you have in your **HTML5 Applications** (the Managed Application Router provided by SAP Launchpad).
   
-<img src="/exercises/images/Content_Explorer.png" width="750"> 
+     ![](../images/Content_Explorer.png)
+ 
+You see the ID of the deployed HTML5 apps and the view name.
+
+3. Select your HTML5 application which you see in the list and click the button <strong>+Add to My Content</strong>.
   
-<br />
-  
-You see the ID of the deployed HTML5 apps and the view name.<br /><br /></li>
-<li>Select your HTML5 application which you see in the list and click the button&nbsp;<strong>+Add to My Content</strong>.<br /><br />
-  
-<img src="/exercises/images/Add_to_content.png" width="750"> 
+     ![](../images/Add_to_content.png)
 
  
-<li>
+4. Click on the **My Content** tab on the top left and see your new app <strong>Hello World App Title</strong> in your content.
   
-Click on the&nbsp;<strong>My Content</strong>&nbsp;tab on the top left and see your new app&nbsp;<strong>Hello World App Title</strong>&nbsp;in your content.<br /><br />
+     ![](../images/My_Content.png)
   
-<img src="/exercises/images/My_Content.png" width="750"> 
+*Note:* You can see the Semantic Object we defined in SAP Business Application Studio <strong>helloworld</strong> and the Action <strong>show</strong> in the app details <strong>Navigation</strong>. This is needed for the Launchpad integration.
+
+5. Enter the group <strong>HelloWorldGroup</strong> you just created, click on <strong>Edit.</strong>
   
-<em>Note:</em>&nbsp;You can see the Semantic Object we defined in SAP Business Application Studio&nbsp;<strong>helloworld</strong>&nbsp;and the Action&nbsp;<strong>show</strong>&nbsp;in the app details&nbsp;<strong>Navigation</strong>. This is needed for the Launchpad integration.<br /><br /></li>
-<li>Enter the group&nbsp;<strong>HelloWorldGroup</strong>&nbsp;you just created, click on&nbsp;<strong>Edit.</strong><br /><br />
   
+     ![](../images/Edit.png)
   
-<img src="/exercises/images/Edit.png" width="50"> 
-  
-<li>Click into the <strong>Assign Items</strong> search bar.<br /><br /></li>
-<li>After clicking <strong>into the search bar</strong>, you will see the HTML5 App&nbsp;<strong>Hello World App Title</strong>.<br /><br /></li>
-<li>Click the&nbsp;<strong>+ button</strong>&nbsp;for your app<br /><br /></li>
-<li>Don't forget to&nbsp;<strong>Save</strong>.<br /><br />
+6. Click into the <strong>Assign Items</strong> search bar.
+7. After clicking <strong>into the search bar</strong>, you will see the HTML5 App <strong>Hello World App Title</strong>.
+8. Click the <strong>+ button</strong> for your app
+9. Don't forget to <strong>Save</strong>.
   
 
-<img src="/exercises/images/Group_Assignment.png" width="750"> 
+     ![](../images/Group_Assignment.png)
   
-<li>Go back to Content Manager and click on the&nbsp;<strong>Everyone</strong>&nbsp;role (you can also create your company-specific roles) and click on the button&nbsp;<strong>Edit</strong>.<br />
+10. Go back to Content Manager and click on the <strong>Everyone</strong> role (you can also create your company-specific roles) and click on the button <strong>Edit</strong>.
   
-<img src="/exercises/images/Edit.png" width="50">   
+     ![](../images/Edit.png)   
   
-<li>In the&nbsp;<strong>Assignments</strong>&nbsp;section, <strong>click in the search bar</strong> and add your app with the&nbsp;<strong>+ button</strong>.<br /><br />
+11. In the <strong>Assignments</strong> section, <strong>click in the search bar</strong> and add your app with the <strong>+ button</strong>.
   
-<img src="/exercises/images/Role_Assignment.png" width="750"> 
+     ![](../images/Role_Assignment.png)
   
-<li>Don't forget to&nbsp;<strong>Save</strong>.<br /><br /></li>
-<li>Go to the&nbsp;<strong>Site Directory</strong>&nbsp;in the left navigation pane. Open your "HelloWorldSite".<br />Start by clinking on it. You will see your newly created app in the Launchpad.<br /><br />
-  
-<img src="/exercises/images/Hello_World_app.png" width="500"> 
-  
-</ol>
-<p><strong>Well done! You have successfully created a Launchpad site, giving necessary roles and groups, and added your HTML5 application to the Launchpad site<br /><br /></strong></p>
+12. Don't forget to <strong>Save</strong>.
+13. Go to the <strong>Site Directory</strong> in the left navigation pane. Open your "HelloWorldSite".
 
-<p>&nbsp;</p>
+Start by clinking on it. You will see your newly created app in the Launchpad.
+  
+![](../images/Hello_World_app.png) 
+  
+
+**Well done! You have successfully created a Launchpad site, giving necessary roles and groups, and added your HTML5 application to the Launchpad site**
+

@@ -5,8 +5,7 @@
   <img src="/exercises/images/Explorer.png" width="60">
   
 <li>Open the <em>xs-app.json</em> and <em>xs-security.json</em> file.<br />You see that you did not define "scopes", no "role-templates" and "role-collections". Meaning with that configuration every authorized user will have access to the app. 
-
-<br />  
+<br /> <br />  
   
 <img src="/exercises/images/xs_app.png" width="750">
  

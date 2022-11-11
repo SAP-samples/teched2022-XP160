@@ -14,7 +14,7 @@ Now let us **change the title of the app** to "HelloWorld".<br />
 
 5. Change <code>"{i18n>title}"</code> to <code>"HelloWorld"</code>.<br /><br />
 <img src="/exercises/images/App_title_TechEd_new.png" width="750"><br /><br />
-You will see the changes in the application preview accordingly: "HelloWorld" instead of "Hello World App Title".<br /><img src="/exercises/images/App_new.png" width="750">
+You will see the changes in the application preview accordingly: "HelloWorld" instead of "Hello World App Title".<br /><br /><img src="/exercises/images/App_new.png" width="750">
  
 
  

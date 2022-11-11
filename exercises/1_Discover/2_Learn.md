@@ -2,13 +2,12 @@ Learn more about the services used in this mission:
 
 **SAPUI5**
 
-![](/exercises/images/UI5.png)
+![](./exercises/images/UI5.png)
 
 SAPUI5 is a JavaScript application framework designed to build cross-platform, responsive, enterprise-ready applications.
 
 * [Get Started: Setup, Tutorials, and Demo Apps on ui5.sap.com](https://ui5.sap.com/#/topic/8b49fc198bf04b2d9800fc37fecbb218)
 * [UI5 flexibility for key users in Service Catalog](https://discovery-center.cloud.sap/serviceCatalog/ui5-flexibility-for-key-users?region=all)
-
 
 **SAP Fiori**
 

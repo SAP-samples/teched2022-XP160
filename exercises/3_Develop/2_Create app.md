@@ -3,13 +3,13 @@
 1. Click on <strong>Start from template</strong> in the Welcome tab to create the project.
 Alternative: Open the menu in the top left corner and go to <strong>View > Command Palette ...</strong> and search for ">new project". Select the command <strong>SAP Business Application Studio: New Project from Template</strong><br />
 
-     ![](../images/BAS_start.png)
+![](../images/BAS_start.png)
 
 2. In the New Project Wizard select **SAP Fiori Application**.</li><br />
 
 Click <strong>Start</strong>.
 
-     ![](../images/Template_Fiori_app.png)
+![](../images/Template_Fiori_app.png)
 
 
 3. In the <strong>Floorplan Selection</strong> choose the following:</li>
@@ -19,28 +19,28 @@ Select <strong>SAPUI5 Application</strong> as floorplan.
 
 Choose <strong>Next</strong>.
 
-     ![](../images/Template_UI5.png)
+![](../images/Template_UI5.png)
 
 
-4. In the <strong>Data Source and Service Selection</strong> choose <strong>None</strong> for Data source, because we just create a "Hello World" without data binding.</li>
+4. In the <strong>Data Source and Service Selection</strong> choose <strong>None</strong> for Data source, because we just create a "Hello World" without data binding.
 
-5. Choose <strong>Next</strong>.</li>
+5. Choose <strong>Next</strong>.
 
-     ![](../images/Data_Source.png)
+![](../images/Data_Source.png)
 
 
-6. Under <strong>Entity Selection</strong> name your SAPUI5 view. This name will appear in the launchpad service for the app. We keep <code>"View1"</code> for now</li><br />
+6. Under <strong>Entity Selection</strong> name your SAPUI5 view. This name will appear in the launchpad service for the app. We keep <code>"View1"</code> for now
 
 Choose <strong>Next</strong>
 
-     ![](../images/View1.png")
+![](../images/View1.png")
 
-7. In the next step, <strong>Project Attributes</strong> choose names and a description for your "Hello World" app (examples see figure):</li><br />
+7. In the next step, <strong>Project Attributes</strong> choose names and a description for your "Hello World" app (examples see figure):
 
-Module name <code>helloworldui5 </code><br>
-Application title <code>Hello World App Title </code><br>
-Application namespace <code>sap.btp </code><br>
-Description: <code>A Fiori Hello World application  </code><br>
+Module name <code>helloworldui5 </code>
+Application title <code>Hello World App Title </code>
+Application namespace <code>sap.btp </code>
+Description: <code>A Fiori Hello World application  </code>
 
 <strong>Project folder path</strong> and <strong>Minimum SAPUI5 version</strong> should not be changed
 
@@ -50,7 +50,7 @@ Configure advanced options <code>No</code><br>
 
 Choose <strong>Next</strong>.
 
-     ![](../images/Template_Project_Attributes.png)
+![](../images/Template_Project_Attributes.png)
 
 8. In the next step, <strong>Deployment Configuration</strong> choose <strong>Cloud Foundry</strong> as a target.</li><br />
 

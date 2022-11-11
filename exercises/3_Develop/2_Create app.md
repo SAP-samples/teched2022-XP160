@@ -69,9 +69,9 @@ Choose **Next**.
 9. The launchpad service needs some Fiori Launchpad Configuration data about the app. Choose names for the entries Semantic Object, Action, and Title (examples see figure)
 (Optional: For more information about these data and features, see Intent-Based Navigation in a Nutshell).
 
-**Semantic Object**: helloworld
-**Action**: show
-**Title**: showhelloworld
+**Semantic Object**: helloworld <br>
+**Action**: show <br>
+**Title**: showhelloworld <br>
 
 <img src="/exercises/images/Fiori_Launchpad_config.png" width="750">
 

@@ -23,11 +23,8 @@
 2. Enter a name of your choice for the space (for example, "devdemo") in the upper left corner and choose the application type SAP Fiori (Choosing SAP Fiori eases the creation of a deployable application compared to application type "Basics"). You don't have to select any additional SAP Extensions here. 
 
 3. Click again **Create Dev Space** in the lower right corner. 
-
- ![](/exercises/images/Create_New_Dev_Space.png)
-
-You will be forwarded to an overview of your dev space(s).
-
+![](/exercises/images/Create_New_Dev_Space.png)
+You will be forwarded to an overview of your dev space(s).<br />
 It may take some time until the newly created dev space is started. Once started the status changes from "STARTING" to "RUNNING” and the dev space name (in this case "devdemo") will turn into a blue hyperlink.
 
 4. Click on the dev space link (e.g. "devdemo") to enter the space.

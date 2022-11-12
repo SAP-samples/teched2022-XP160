@@ -37,6 +37,6 @@ Your trail subaccount will be selected automatically as destination.<br /><br />
 
 ![](../images/HTML5_app.png)
   
-Click on the application name "<strong>saphelloworldui5</strong>". Your deployed app will open in a new window.
+7. Click on the application name "<strong>saphelloworldui5</strong>". Your deployed app will open in a new window.
 
 ![](../images/App_new.png)

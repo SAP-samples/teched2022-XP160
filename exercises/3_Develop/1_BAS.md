@@ -30,6 +30,7 @@ You will be forwarded to an overview of your dev space(s).
 It may take some time until the newly created dev space is started. Once started the status changes from "STARTING" to "RUNNING” and the dev space name (in this case "devdemo") will turn into a blue hyperlink.
 
 4. Click on the dev space link (e.g. "devdemo") to enter the space.
+
  ![](../images/Start_Devspace.png)
 
 After a few seconds ...

@@ -16,10 +16,10 @@ Right-click on the <strong>mta.yaml</strong> file and choose <strong>Build MTA p
 You will get the following INFO Message:
 <code>INFO the MTA archive generated at: /home/user/projects/helloworldui5/mta_archives/sap-btp-helloworldui5_0.0.1.mtar</code>
   
-**Alternative**: Build your application via the command line 
-Right-click on the <strong>mta.yaml</strong> file and choose <strong>Open in Terminal</strong>
-Type "dir" in the console to show the files in the directory. check if the <em>mta.yaml</em> file is available.
-Type command 'mbt build'.
+**Alternative**: Build your application via the command line
+- Right-click on the <strong>mta.yaml</strong> file and choose <strong>Open in Terminal</strong>
+- Type "dir" in the console to show the files in the directory. check if the <em>mta.yaml</em> file is available.
+- Type command 'mbt build'.
 
 For more details, see section <a href="https://help.sap.com/docs/SAP%20Business%20Application%20Studio/9d1db9835307451daa8c930fbd9ab264/97ef204c568c4496917139cee61224a6.html" target="true" rel="noopener">Building and Deploying Multitarget Applications on SAP Help Portal.</a>
 

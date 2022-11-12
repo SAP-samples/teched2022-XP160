@@ -37,40 +37,41 @@ Choose <strong>Next</strong>
 
 7. In the next step, <strong>Project Attributes</strong> choose names and a description for your "Hello World" app (examples see figure):
 
-Module name <code>helloworldui5 </code>
-Application title <code>Hello World App Title </code>
-Application namespace <code>sap.btp </code>
-Description: <code>A Fiori Hello World application  </code>
+- Module name <code>helloworldui5 </code>
+- Application title <code>Hello World App Title </code>
+- Application namespace <code>sap.btp </code>
+- Description: <code>A Fiori Hello World application</code>
 
 <strong>Project folder path</strong> and <strong>Minimum SAPUI5 version</strong> should not be changed
 
-Add deployment configuration to MTA project <code>Yes </code><br>
-Add FLP configuration <code>Yes</code><br>
-Configure advanced options <code>No</code><br>
+- Add deployment configuration to MTA project <code>Yes </code>
+- Add FLP configuration <code>Yes</code>
+- Configure advanced options <code>No</code>
 
-Choose <strong>Next</strong>.
+Choose **Next**.
 
 ![](../images/Template_Project_Attributes.png)
 
-8. In the next step, <strong>Deployment Configuration</strong> choose <strong>Cloud Foundry</strong> as a target.</li><br />
+8. In the next step, **Deployment Configuration** choose **Cloud Foundry** as a target.
 
-Choose <code>None</code> for Destination name.
+Choose **None** for Destination name.
 
-Choose <strong>Add application to managed application router?</strong> <code>Yes</code>.
+Choose Add application to managed application router?: <code>Yes</code>.
+
 This is the standard html5 repository from launchpad service and eases deployment.
 
-Choose <strong>Next</strong>
+Choose **Next**.
 
-     ![](../images/Deployment_Config.png)
+![](../images/Deployment_Config.png)
 
-9. The launchpad service needs some Fiori Launchpad Configuration data about the app. Choose names for the entries Semantic Object, Action, and Title (examples see figure)</li><br />
-(Optional: For more information about these data and features, see Intent-Based Navigation in a Nutshell).<br /><br />
+9. The launchpad service needs some Fiori Launchpad Configuration data about the app. Choose names for the entries Semantic Object, Action, and Title (examples see figure)
+(Optional: For more information about these data and features, see Intent-Based Navigation in a Nutshell).
 
 Semantic Object: <code>helloworld </code><br>
 Action: <code>show </code><br>
 Title: <code>showhelloworld </code> <br>
 
-     ![](../images/Fiori_Launchpad_config.png)
+![](../images/Fiori_Launchpad_config.png)
 
 10. Choose <strong>Finish</strong></li><br />
 
@@ -78,15 +79,15 @@ Title: <code>showhelloworld </code> <br>
 
 11. Click on <strong>Add Project to Workspace</strong></li><br />
 
-     ![](../images/Workspace.png)
+![](../images/Workspace.png)
 
 12. After your App is generated, you should see this page and in the Explorer a new folder "helloworldui5" under HOME.</li><br />
 
-     ![](../images/BAS_Project_App_Info.png)
+![](../images/BAS_Project_App_Info.png)
 
 13. Open your Projects folder via menu: File > Open Folder ... and enter "/home/user/projects".</li><br />
 
-     ![](../images/Open_Projects_folder.png)
+![](../images/Open_Projects_folder.png)
  
 14. Click <strong>OK</strong>.</li>
 

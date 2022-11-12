@@ -23,7 +23,7 @@
 </li>
 <li>Navigate to <strong>Services</strong> &gt;&nbsp;<strong>Instances and Subscriptions</strong>&nbsp;in the left navigation pane.</li>
 <li>
-<p>Select the tab <strong>Subscriptions</strong>, and choose <strong>Launchpad Service</strong>The Launchpad Site Manager opens in a new window.
+<p>Select the tab <strong>Subscriptions</strong>, and choose <strong>Launchpad Service</strong>The Launchpad Site Manager opens in a new window.</p>
   
 ![](../images/Open_site_directory.png)
   

@@ -50,17 +50,18 @@ A connection of your SAP Business Application Studio to your Cloud Foundry subac
 
 1. Switch to the SAP BTP cockpit and click on Overview of your subaccount (top left).
 2. Check the **API Endpoint** and **Org Name** and your **Space**.
+**Keep this information in mind** for the next steps (this is especially important if you want to use multiple subaccounts for your SAP Business Application Studio).
 
  ![](../images/API_Endpoint.png)
  
 
-**Keep this information in mind** for the next steps (this is especially important if you want to use multiple subaccounts for your SAP Business Application Studio).
+
 
  
 
 **Procedure for Connecting**
 
-1. Switch to the tab where you have opened SAP Business Application Studio. In the tabs, click on View in the menu and select Command Palette ... .
+1. Switch to the tab where you have opened SAP Business Application Studio. In the tabs, click on View in the menu and select **Command Palette...** .
 
  ![](../images/Command_Palette.png)
 

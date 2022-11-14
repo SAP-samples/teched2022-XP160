@@ -14,7 +14,7 @@ SAP BTP trial account with entitlements to SAP Business Application Studio and S
 
 ## Prerequisites
 
-Register at SAP Discovery Center by doing the following steps: SAP Discovery Center registration.
+Register at SAP Discovery Center by doing the following steps: [SAP Discovery Center registration](./0_Register_for_DC.md)<br>
 
 ## Exercises
 

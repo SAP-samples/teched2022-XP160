@@ -17,8 +17,7 @@ The Service Marketplace provides you access to all services and applications tha
 
      ![](../images/Find_launchpad.png)
 
-
-If you clicked on the Launchpad Service Tile the Launchpad Service page opens with 3 tabs that include information about the service (overview) as well as the two different plans (Service and Application Plans).
+     If you clicked on the Launchpad Service Tile the Launchpad Service page opens with 3 tabs that include information about the service (overview) as well as the two different plans (Service and Application Plans).
 
 3. Under the **Applications Plans** tab, click the Actions icon (&hellip;) and select **Create** to create a new subscription.
 

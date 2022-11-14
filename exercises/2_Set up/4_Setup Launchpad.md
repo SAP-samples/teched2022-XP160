@@ -39,8 +39,7 @@ If you clicked on the Launchpad Service Tile the Launchpad Service page opens wi
      You are redirected to the <strong>Services</strong>&nbsp;-&gt;&nbsp;<strong>Instances and Subscriptions</strong>&nbsp;screen. This screen provides you with an overview of all services and applications that are currently active.
 
 
-6. From the&nbsp;<strong>Instances and Subscriptions</strong>&nbsp;screen, under the&nbsp;<strong>Subscriptions</strong> tab or on the right under the service name, you'll see that you are subscribed to the <strong>Launchpad Service </strong>now. The <strong>SAP Business Application Studio Service</strong> is automatically subscribed with the creation of the trial account.</p>
+From the&nbsp;<strong>Instances and Subscriptions</strong>&nbsp;screen, under the&nbsp;<strong>Subscriptions</strong> tab or on the right under the service name, you'll see that you are subscribed to the <strong>Launchpad Service </strong>now. The <strong>SAP Business Application Studio Service</strong> is automatically subscribed with the creation of the trial account.</p>
 
-
-     ![](../images/Subscribed.png)
+![](../images/Subscribed.png)
 

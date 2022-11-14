@@ -24,11 +24,12 @@ You will get the following INFO Message:
 For more details, see section <a href="https://help.sap.com/docs/SAP%20Business%20Application%20Studio/9d1db9835307451daa8c930fbd9ab264/97ef204c568c4496917139cee61224a6.html" target="true" rel="noopener">Building and Deploying Multitarget Applications on SAP Help Portal.</a>
 
 4. Deploy the HelloWorld application to your SAP BTP dev space. <br />Make sure you are logged in to your SAP BTP subaccount (described under step "Prepare your SAP Business Application Studio").
-Expand the project folder <strong>mta_archives</strong>and right-click on the built file&nbsp;<strong>sap-btp-hellowordlui5_0.0.1.mtar</strong>&nbsp;and select&nbsp;<strong>Deploy MTA Archive</strong>.
+Expand the project folder <strong>mta_archives</strong> and right-click on the built file&nbsp;<strong>sap-btp-hellowordlui5_0.0.1.mtar</strong>&nbsp;and select&nbsp;<strong>Deploy MTA Archive</strong>.
   
-     ![](../images/Deploy_mta.png")  
+![](../images/Deploy_mta.png")  
 
-Your trail subaccount will be selected automatically as destination.<br /><br />
+Your trial subaccount will be selected automatically as destination.<br /><br />
+
 5. After the deployment is triggered, you can see the progress of the deployment in the terminal under <strong>Task: Deploy MTA Archive</strong>. <br />It takes a while to complete the task. You will see a success message in the console once it's done. <br />If not, check the previous steps again.<br /><br />
   
 ![](../images/Terminal.png)

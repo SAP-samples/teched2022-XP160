@@ -14,4 +14,4 @@ You will learn
 ![](../images/Register_for_Trial.png)
 
      
-If you don not need to register with sap.com, click on "Log in" on the right (alternatively login here: https://cockpit.hanatrial.ondemand.com/trial/).
+If you don not need to register with sap.com, click on "Log in" on the right.

@@ -19,7 +19,7 @@ Now let us **change the title of the app** to "HelloWorld".
 
 4. Open folder "**webapp**" and subfolder **view** (in our example View1). Click on the page title inside the blue box. The element ID "page" will be selected.
 
-5. Change "{i18n>title}" to "HelloWorld".
+5. Change "{i18n>title}" to "Hello TechEd".
 
      ![](../images/App_title_TechEd_new.png)
 

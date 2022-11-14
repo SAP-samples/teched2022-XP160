@@ -5,9 +5,9 @@
 <p>Open the Workspace containing your HTML5 HelloWorld project in SAP Business Application Studio.</p>
 </li>
 <li>
-<p>Expand your HTML5 project and under the folder&nbsp;<strong>helloworldui5&nbsp;</strong>&gt;&nbsp;<strong>webapp</strong> open the <strong>manifest.json </strong>file<strong>.</strong>&nbsp;</p>
+<p>Expand your HTML5 project and under the folder&nbsp;<strong>helloworldui5&nbsp;</strong>&gt;&nbsp;<strong>webapp</strong> open the <strong>manifest.json </strong>file<strong>.</strong>&nbsp;</p> In our sample it would look like this:
 </li>
-<li>To ensure that the data of the extension application is displayed correctly on the SAP Launchpad site, check the value of <strong>sap.cloud</strong> in <strong>webapp/manifest.json</strong> file.&nbsp;<br /><br />
+<li>To ensure that the data of the application is displayed correctly on the SAP Launchpad site, check the value of <strong>sap.cloud</strong> in <strong>webapp/manifest.json</strong> file.&nbsp;<br /><br />
 <div>
 <div>&nbsp;<code>"sap.cloud":&nbsp;{</code></div>
 <div><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"public":&nbsp;true,</code></div>

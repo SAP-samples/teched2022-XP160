@@ -12,6 +12,10 @@ Learn how the SAP Discovery Center supports you in effectively working with SAP 
 
 SAP BTP trial account with entitlements to SAP Business Application Studio and SAP Launchpad service.
 
+## Prerequisites
+
+Register at SAP Discovery Center by doing the following steps: SAP Discovery Center registration.
+
 ## Exercises
 
 You can find the exercises in the SAP Discovery Center mission here: https://discovery-center.cloud.sap/missiondetail/4105/

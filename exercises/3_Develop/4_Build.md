@@ -28,7 +28,7 @@ Expand the project folder <strong>mta_archives</strong> and right-click on the b
   
 ![](../images/Deploy_mta.png")  
 
-Your trial subaccount will be selected automatically as destination.<br /><br />
+Your trial subaccount and Cloud Foundry Target will be selected automatically as destination.<br /><br />In case you are asked for your Cloud Foundry target select your approriate trial account and space as CF Organization and Space and click **Apply**
 
 5. After the deployment is triggered, you can see the progress of the deployment in the terminal under <strong>Task: Deploy MTA Archive</strong>. <br />It takes a while to complete the task. You will see a success message in the console once it's done. <br />If not, check the previous steps again.<br /><br />
   

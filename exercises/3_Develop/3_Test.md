@@ -21,7 +21,7 @@ Now let us **change the title of the app** to "HelloWorld".
 
 5. Change "{i18n>title}" to "Hello TechEd".
 
-     ![](../images/App_title_TechEd_new.png)
+![](../images/View1_code.png)
 
 You will see the changes in the application preview accordingly: "Hello TechEd" instead of "Hello World App Title".
 

@@ -1,4 +1,4 @@
-**The following requirements have to be met:**
+**The following requirements have to be met (no action required):**
 <ul>
 <li>SAP BTP trial account with entitlements for:
 <ul>
@@ -8,6 +8,5 @@
 </li>
 <li>SAP BTP <strong>account administrator</strong> privilege.</li>
 </ul>
-<p>SAP BTP Trial Accounts already have preconfigured a Cloud Foundry runtime environment and an SAP Business Application Studio development environment.</p>
-<p>You start with creating the SAP BTP trial account and setting up the SAP Launchpad Services on the next project board cards.</p>
-<p><strong>Skip the next Card in case you already have an SAP BTP Trial account!</strong></p>
+<p>You start with creating the SAP BTP trial account and setting up the SAP Launchpad Services on the next project board cards.<strong> Skip the next Card in case you already have an SAP BTP Trial account!</strong></p>
+<p>SAP BTP Trial Accounts already have preconfigured a Cloud Foundry runtime and an SAP Business Application Studio development environment.</p>

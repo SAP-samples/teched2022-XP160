@@ -22,7 +22,7 @@ You can find the exercises in the SAP Discovery Center mission here: https://dis
 
 ## How to obtain support
 
-Support for the content in this repository is available during the actual time of the online session for which this content has been designed. 
+Support for the content in this repository is available during the actual time of the online session for which this content has been designed. Additionally, you can raise your question any time in your Discovery Center Mission via the chat functionality under the support tab.
 
 ## License
 Copyright (c) 2022 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSES/Apache-2.0.txt) file.

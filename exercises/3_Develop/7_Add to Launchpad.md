@@ -22,10 +22,6 @@ You see the ID of the deployed HTML5 apps and the view name.
 *Note:* You can see the Semantic Object we defined in SAP Business Application Studio <strong>helloworld</strong> and the Action <strong>show</strong> in the app details <strong>Navigation</strong>. This is needed for the Launchpad integration.
 
 5. Enter the group <strong>HelloWorldGroup</strong> you just created, click on <strong>Edit.</strong>
-  
-  
-     ![](../images/Edit.png)
-  
 6. Click into the <strong>Assign Items</strong> search bar.
 7. After clicking <strong>into the search bar</strong>, you will see the HTML5 App <strong>Hello World App Title</strong>.
 8. Click the <strong>+ button</strong> for your app
@@ -36,16 +32,11 @@ You see the ID of the deployed HTML5 apps and the view name.
   
 10. Go back to Content Manager and click on the <strong>Everyone</strong> role (you can also create your company-specific roles) and click on the button <strong>Edit</strong>.
   
-     ![](../images/Edit.png)   
-  
-11. In the <strong>Assignments</strong> section, <strong>click in the search bar</strong> and add your app with the <strong>+ button</strong>.
+11. In the <strong>Assignments</strong> section, <strong>click in the search bar</strong>, add your app with the <strong>+ button</strong> and save.
   
      ![](../images/Role_Assignment.png)
-  
-12. Don't forget to <strong>Save</strong>.
-13. Go to the <strong>Site Directory</strong> in the left navigation pane. Open your "HelloWorldSite".
 
-Start by clinking on it. You will see your newly created app in the Launchpad.
+12. Refresh your "HelloWorldSite" and you will see your newly created app in the Launchpad (If you closed the tab with your HelloWorldSite, you can go to the <strong>Site Directory</strong> in the left navigation pane and open your "HelloWorldSite").
   
 ![](../images/Hello_World_app.png) 
   

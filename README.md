@@ -14,7 +14,7 @@ SAP BTP trial account with entitlements to SAP Business Application Studio and S
  
 NOTE: SAP Launchpad Service is part of the SAP Build portfolio. In early 2023, we launch a new experience with the new name SAP Build Work Zone, standard edition. You can learn more in the Roadmap Explorer. Please be aware that some screenshots or systems in this Hands-on material might still contain the former name SAP Launchpad Service. 
 
-![](../images/Launchpad%20Rebranding.jpg)
+![](./exercises/images/Launchpad_Rebranding.jpg)
 
 ## Prerequisites
 

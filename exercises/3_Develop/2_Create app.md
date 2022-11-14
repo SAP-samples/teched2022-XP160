@@ -81,7 +81,7 @@ Title: <code>showhelloworld </code> <br>
 
 ![](../images/Workspace.png)
 
-12. After your App is generated, you should see this page and in the Explorer a new folder "helloworldui5" under HOME.</li><br />
+12. After your App is generated, you should see this page and in the Explorer a new folder "helloworldui5".</li><br />
 
 ![](../images/BAS_Project_App_Info.png)
 

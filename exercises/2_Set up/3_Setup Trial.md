@@ -23,7 +23,7 @@ Enter Trial Account
       ![](../images/Welcome_to_Trial2.png)
 
 
-      *Note*: The global trial account contains&nbsp;<strong>one</strong> subaccount and space.&nbsp;</p>
+      *Note*: Your created global trial account contains&nbsp;<strong>one</strong> subaccount and space per default.&nbsp;</p>
 
 5. Click the <strong>trial</strong> tile to navigate to your trial subaccount in the SAP BTP cockpit.
 

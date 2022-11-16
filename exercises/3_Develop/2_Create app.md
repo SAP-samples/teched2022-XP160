@@ -1,23 +1,22 @@
 **Create an SAP Fiori Application with "Start from template"**
 
 1. Click on <strong>Start from template</strong> in the Welcome tab to create the project.
-Alternative: Open the menu in the top left corner and go to <strong>View > Command Palette ...</strong> and search for ">new project". Select the command <strong>SAP Business Application Studio: New Project from Template</strong><br />
+Alternative: Open the menu in the top left corner and go to **View > Command Palette ...** and search for ">new project". Select the command **SAP Business Application Studio: New Project from Template**
 
 ![](../images/BAS_start.png)
 
-2. In the New Project Wizard select **SAP Fiori Application**.</li><br />
+2. In the New Project Wizard select **SAP Fiori Application**.
 
-Click <strong>Start</strong>.
+Click **Start**.
 
 ![](../images/Template_Fiori_app.png)
 
+3. In the <strong>Floorplan Selection</strong> choose the following:
 
-3. In the <strong>Floorplan Selection</strong> choose the following:</li>
+For the field <strong>Application Type</strong> choose **SAPUI5 freestyle** from the drop-down.
+Select **SAPUI5 Application** as floorplan.
 
-For the field <strong>Application Type</strong> choose <strong>SAPUI5 freestyle</strong> from the drop-down.
-Select <strong>SAPUI5 Application</strong> as floorplan.
-
-Choose <strong>Next</strong>.
+Choose **Next**.
 
 ![](../images/Template_UI5.png)
 

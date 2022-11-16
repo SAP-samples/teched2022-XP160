@@ -1,3 +1,5 @@
+![](../images/Deployment_Config.png)
+
 **Create an SAP Fiori Application with "Start from template"**
 
 1. Click on <strong>Start from template</strong> in the Welcome tab to create the project.

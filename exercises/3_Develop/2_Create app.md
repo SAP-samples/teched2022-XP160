@@ -1,4 +1,3 @@
-![](../images/Deployment_Config.png)
 
 **Create an SAP Fiori Application with "Start from template"**
 

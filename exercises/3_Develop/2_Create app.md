@@ -21,16 +21,16 @@ Choose **Next**.
 ![](../images/Template_UI5.png)
 
 
-4. In the <strong>Data Source and Service Selection</strong> choose <strong>None</strong> for Data source, because we just create a "Hello World" without data binding.
+4. In the **Data Source and Service Selection** choose **None** for Data source, because we just create a "Hello World" without data binding.
 
-5. Choose <strong>Next</strong>.
+5. Choose **Next**.
 
 ![](../images/Data_Source.png)
 
 
-6. Under <strong>Entity Selection</strong> name your SAPUI5 view. This name will appear in the launchpad service for the app. We keep <code>"View1"</code> for now
+6. Under **Entity Selection** name your SAPUI5 view. This name will appear in the launchpad service for the app. We keep <code>"View1"</code> for now
 
-Choose <strong>Next</strong>
+Choose **Next**
 
 ![](../images/View1.png")
 
@@ -66,27 +66,27 @@ Choose **Next**.
 9. The launchpad service needs some Fiori Launchpad Configuration data about the app. Choose names for the entries Semantic Object, Action, and Title (examples see figure)
 (Optional: For more information about these data and features, see Intent-Based Navigation in a Nutshell).
 
-Semantic Object: <code>helloworld </code><br>
-Action: <code>show </code><br>
-Title: <code>showhelloworld </code> <br>
+Semantic Object: <code>helloworld </code>
+Action: <code>show </code>
+Title: <code>showhelloworld </code> 
 
 ![](../images/Fiori_Launchpad_config.png)
 
-10. Choose <strong>Finish</strong></li><br />
+10. Choose <strong>Finish</strong>
 
 *Note*, that it may take some time until all dependencies are installed.
 
-11. Click on <strong>Add Project to Workspace</strong></li><br />
+11. Click on <strong>Add Project to Workspace</strong>
 
 ![](../images/Workspace.png)
 
-12. After your App is generated, you should see this page and in the Explorer a new folder "helloworldui5".</li><br />
+12. After your App is generated, you should see this page and in the Explorer a new folder "helloworldui5".
 
 ![](../images/BAS_Project_App_Info.png)
 
-13. Open your Projects folder via menu: File > Open Folder ... and enter "/home/user/projects".</li><br />
+13. Open your Projects folder via menu: File > Open Folder ... and enter "/home/user/projects".
 
 ![](../images/Open_Projects_folder.png)
  
-14. Click <strong>OK</strong>.</li>
+14. Click <strong>OK</strong>.
 

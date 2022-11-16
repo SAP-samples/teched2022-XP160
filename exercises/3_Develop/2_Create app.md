@@ -1,4 +1,4 @@
-![](../images/Deployment_Config.png)
+
 
 **Create an SAP Fiori Application with "Start from template"**
 
@@ -15,13 +15,13 @@ Click **Start**.
 
 3. In the **Floorplan Selection** choose the following:
 
-For the field <strong>Application Type</strong> choose **SAPUI5 freestyle** from the drop-down.
+For the field **Application Type** choose **SAPUI5 freestyle** from the drop-down.
 Select **SAPUI5 Application** as floorplan.
 
 Choose **Next**.
 
 ![](../images/Template_UI5.png)
-
+![](../images/Deployment_Config.png)
 
 4. In the **Data Source and Service Selection** choose **None** for Data source, because we just create a "Hello World" without data binding.
 
@@ -43,7 +43,7 @@ Choose **Next**
 - Application namespace **sap.btp**
 - Description: **A Fiori Hello World application**
 
-<strong>Project folder path</strong> and <strong>Minimum SAPUI5 version</strong> should not be changed
+**Project folder path** and **Minimum SAPUI5 version** should not be changed
 
 - Add deployment configuration to MTA project **Yes**
 - Add FLP configuration **Yes**

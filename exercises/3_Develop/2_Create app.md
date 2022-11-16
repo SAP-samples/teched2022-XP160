@@ -21,7 +21,6 @@ Select **SAPUI5 Application** as floorplan.
 Choose **Next**.
 
 ![](../images/Template_UI5.png)
-![](../images/Deployment_Config.png)
 
 4. In the **Data Source and Service Selection** choose **None** for Data source, because we just create a "Hello World" without data binding.
 

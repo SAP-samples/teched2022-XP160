@@ -78,7 +78,7 @@ Title: **showhelloworld**
 
 *Note*, that it may take some time until all dependencies are installed.
 
-11. Click on <strong>Add Project to Workspace</strong>
+11. Click on **Add Project to Workspace**
 
 ![](../images/Workspace.png)
 
@@ -86,9 +86,9 @@ Title: **showhelloworld**
 
 ![](../images/BAS_Project_App_Info.png)
 
-13. Open your Projects folder via menu: File > Open Folder ... and enter "/home/user/projects".
+13. Open your Projects folder via menu: **File > Open Folder** ... and enter **"/home/user/projects"**.
 
 ![](../images/Open_Projects_folder.png)
  
-14. Click <strong>OK</strong>.
+14. Click **OK**.
 

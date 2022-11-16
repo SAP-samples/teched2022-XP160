@@ -1,4 +1,3 @@
-![](../images/BAS_start.png)
 **Create an SAP Fiori Application with "Start from template"**
 
 1. Click on **Start from template** in the Welcome tab to create the project.

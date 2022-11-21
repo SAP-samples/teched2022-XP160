@@ -1,3 +1,5 @@
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2022-XP160)](https://api.reuse.software/info/github.com/SAP-samples/teched2022-XP160)
+
 # XP160 - Get Started with SAP BTP Leveraging SAP Discovery Center
 
 ## Description

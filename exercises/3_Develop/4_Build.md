@@ -40,6 +40,6 @@ Your trial subaccount and Cloud Foundry Target will be selected automatically as
   
 7. Click on the application name "<strong>sapbtphelloworldui5</strong>". Your deployed app will open in a new window.
 
-![](../images/App_new.png)
+ <!-- ![](../images/App_new.png)  -->
 
- <!--     --> 
+    

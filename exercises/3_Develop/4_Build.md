@@ -26,7 +26,7 @@ For more details, see section <a href="https://help.sap.com/docs/SAP%20Business%
 4. Deploy the HelloWorld application to your SAP BTP dev space. <br />Make sure you are logged in to your SAP BTP subaccount (described under step "Prepare your SAP Business Application Studio").
 Expand the project folder <strong>mta_archives</strong> and right-click on the built file&nbsp;<strong>sap-btp-hellowordlui5_0.0.1.mtar</strong>&nbsp;and select&nbsp;<strong>Deploy MTA Archive</strong>.
   
-![](../images/Deploy_mta.png")  
+ <!--  ![](../images/Deploy_mta.png")   -->
 
 Your trial subaccount and Cloud Foundry Target will be selected automatically as destination.In case you are asked for your Cloud Foundry target select your approriate trial account and space as CF Organization and Space and click **Apply**.<br /><br />
 
